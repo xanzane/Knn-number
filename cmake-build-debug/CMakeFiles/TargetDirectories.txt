@@ -1,0 +1,3 @@
+D:/Develop/code/c/Knn-number/cmake-build-debug/CMakeFiles/Knn-number.dir
+D:/Develop/code/c/Knn-number/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Develop/code/c/Knn-number/cmake-build-debug/CMakeFiles/rebuild_cache.dir
